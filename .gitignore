@@ -1,0 +1,6 @@
+bin/
+obj/
+.paket/
+packages/
+paket-files/
+artifacts/
