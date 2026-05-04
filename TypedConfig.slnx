@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TypedConfig/TypedConfig.fsproj" />
+  <Project Path="TypedConfig.Tests/TypedConfig.Tests.fsproj" />
+</Solution>
